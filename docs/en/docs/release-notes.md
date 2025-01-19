@@ -9,6 +9,24 @@ hide:
 
 ### Refactors
 
+* ✅ Simplify tests for websockets. PR [#13202](https://github.com/fastapi/fastapi/pull/13202) by [@alejsdev](https://github.com/alejsdev).
+* ✅ Simplify tests for request_form_models . PR [#13183](https://github.com/fastapi/fastapi/pull/13183) by [@alejsdev](https://github.com/alejsdev).
+* ✅ Simplify tests for separate_openapi_schemas. PR [#13201](https://github.com/fastapi/fastapi/pull/13201) by [@alejsdev](https://github.com/alejsdev).
+* ✅ Simplify tests for security. PR [#13200](https://github.com/fastapi/fastapi/pull/13200) by [@alejsdev](https://github.com/alejsdev).
+* ✅ Simplify tests for schema_extra_example. PR [#13197](https://github.com/fastapi/fastapi/pull/13197) by [@alejsdev](https://github.com/alejsdev).
+* ✅ Simplify tests for request_model. PR [#13195](https://github.com/fastapi/fastapi/pull/13195) by [@alejsdev](https://github.com/alejsdev).
+* ✅ Simplify tests for request_forms_and_files. PR [#13185](https://github.com/fastapi/fastapi/pull/13185) by [@alejsdev](https://github.com/alejsdev).
+* ✅ Simplify tests for request_forms. PR [#13184](https://github.com/fastapi/fastapi/pull/13184) by [@alejsdev](https://github.com/alejsdev).
+* ✅ Simplify tests for path_query_params. PR [#13181](https://github.com/fastapi/fastapi/pull/13181) by [@alejsdev](https://github.com/alejsdev).
+* ✅ Simplify tests for path_operation_configurations. PR [#13180](https://github.com/fastapi/fastapi/pull/13180) by [@alejsdev](https://github.com/alejsdev).
+* ✅ Simplify tests for header_params. PR [#13179](https://github.com/fastapi/fastapi/pull/13179) by [@alejsdev](https://github.com/alejsdev).
+* ✅ Simplify tests for extra_models. PR [#13178](https://github.com/fastapi/fastapi/pull/13178) by [@alejsdev](https://github.com/alejsdev).
+* ✅ Simplify tests for extra_data_types. PR [#13177](https://github.com/fastapi/fastapi/pull/13177) by [@alejsdev](https://github.com/alejsdev).
+* ✅ Simplify tests for cookie_params. PR [#13176](https://github.com/fastapi/fastapi/pull/13176) by [@alejsdev](https://github.com/alejsdev).
+* ✅ Simplify tests for dependencies. PR [#13174](https://github.com/fastapi/fastapi/pull/13174) by [@alejsdev](https://github.com/alejsdev).
+* ✅ Simplify tests for body_updates. PR [#13172](https://github.com/fastapi/fastapi/pull/13172) by [@alejsdev](https://github.com/alejsdev).
+* ✅ Simplify tests for body_nested_models. PR [#13171](https://github.com/fastapi/fastapi/pull/13171) by [@alejsdev](https://github.com/alejsdev).
+* ✅ Simplify tests for body_multiple_params. PR [#13170](https://github.com/fastapi/fastapi/pull/13170) by [@alejsdev](https://github.com/alejsdev).
 * ✅ Simplify tests for body_fields. PR [#13169](https://github.com/fastapi/fastapi/pull/13169) by [@alejsdev](https://github.com/alejsdev).
 * ✅ Simplify tests for body. PR [#13168](https://github.com/fastapi/fastapi/pull/13168) by [@alejsdev](https://github.com/alejsdev).
 * ✅ Simplify tests for bigger_applications. PR [#13167](https://github.com/fastapi/fastapi/pull/13167) by [@alejsdev](https://github.com/alejsdev).
@@ -85,6 +103,9 @@ hide:
 
 ### Internal
 
+* 👥 Update FastAPI People - Sponsors. PR [#13231](https://github.com/fastapi/fastapi/pull/13231) by [@tiangolo](https://github.com/tiangolo).
+* 👷 Refactor FastAPI People Sponsors to use 2 tokens. PR [#13228](https://github.com/fastapi/fastapi/pull/13228) by [@tiangolo](https://github.com/tiangolo).
+* 👷 Update token for FastAPI People - Sponsors. PR [#13225](https://github.com/fastapi/fastapi/pull/13225) by [@tiangolo](https://github.com/tiangolo).
 * 👷 Add independent CI automation for FastAPI People - Sponsors. PR [#13221](https://github.com/fastapi/fastapi/pull/13221) by [@tiangolo](https://github.com/tiangolo).
 * 👷 Add retries to Smokeshow. PR [#13151](https://github.com/fastapi/fastapi/pull/13151) by [@tiangolo](https://github.com/tiangolo).
 * 🔧 Update Speakeasy sponsor graphic. PR [#13147](https://github.com/fastapi/fastapi/pull/13147) by [@chailandau](https://github.com/chailandau).
